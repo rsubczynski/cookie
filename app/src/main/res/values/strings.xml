@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyCookieClicker</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_new_game">New game</string>
+    <string name="label_ranking">Ranking</string>
+    <string name="label_options">Options</string>
+    <string name="label_exit">Exit</string>
+
+    <string name="game_activity_title">Game</string>
+    <string name="menu_activity_title">Menu</string>
+    <string name="ranking_activity_title">Ranking</string>
+    <string name="options_activity_title">Options</string>
+    <string name="mgs_option_continue_in_background">Game should be continue in background</string>
+    <string name="rv_player">Player:</string>
+    <string name="rv_score">Score:</string>
+    <string name="rv_time">Time:</string>
+
+
+</resources>

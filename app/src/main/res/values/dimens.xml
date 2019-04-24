@@ -1,0 +1,4 @@
+<resources>
+
+    <dimen name="rv_item_label_title_width">100dp</dimen>
+</resources>
